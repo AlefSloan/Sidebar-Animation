@@ -13,9 +13,9 @@ Recebemos um material do figma, com cores e ícones.
 ![Imgur](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDhiM2VjMWQwMGViZDA5MmQzOTYwZDgxOTNmMzM5MGIwOTliZjk0YiZjdD1n/nN9wFqZCieSu2HSP82/giphy.gif)
 ## Aprendizados
 
-Nesse projeto, devido a escolher imagem e cores próprias aprendi um pouco sobre criatividade ao criar algo, assim como também aprendi sobre o uso de imagens SVG.
+Nesse projeto, aprendi a capturar e mudar a classe de tags ou elementos com Javascript.
 
-A maior dificuldade foi pensar em cores que combinem com a imagem e que deixasse o site elegante :smile:
+A maior dificuldade aprender a entender como o DOM funciona e como fazer as mudanças no HTML baseado em eventos como o clique :smile:
 
 
 ## Rodando localmente
